@@ -113,6 +113,10 @@ I'm a developer and tech enthusiast based in India, passionate about building co
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
+</div>
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78900&center=true&vCenter=true&repeat=false&width=1000&height=100&lines=Reach+out+if+you+need+help+!++%F0%9F%A4%9D)](https://git.io/typing-svg)
